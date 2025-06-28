@@ -16,7 +16,7 @@ Supervised learning project that predicts the sentiment of product reviews based
 
 ```
 .
-├── data/                           # Dataset folder (not included in repo)
+├── data/                           # Dataset
 ├── notebooks/
 │   └── NLP_automotive.ipynb        # Main notebook with full pipeline (preprocessing, training, evaluation)
 ├── utils.py                        # Helper functions and custom visualizations
