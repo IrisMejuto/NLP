@@ -8,7 +8,8 @@ NLP project for classifying product reviews (positive or negative) using Logisti
 
 ## 📋 Description
 
-Supervised learning project that predicts the sentiment of product reviews based on TF-IDF vectorized text. Two machine learning models (Logistic Regression and Random Forest) are compared based on performance, speed, and interpretability.
+Supervised learning project that predicts the sentiment of product reviews based on TF-IDF vectorized text. 
+Two machine learning models (Logistic Regression and Random Forest) are compared based on performance, speed, and interpretability.
 
 ---
 
